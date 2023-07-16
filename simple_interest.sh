@@ -1,6 +1,16 @@
 #!/bin/bash
 
 #shell script to calculate simple interest
+# This script calculates simple interest given principal,
+# annual rate of interest and time period in years.
+
+
+# Author: Ums91
+
+# Input:
+# p, principal amount
+# t, time period in years
+# r, annual rate of interest
 
 echo "Enter the Principal amount: "
 read principal

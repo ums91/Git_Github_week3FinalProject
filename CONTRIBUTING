@@ -1,0 +1,26 @@
+# Contributing Guidelines
+
+We appreciate your interest in contributing to [Project Name]! To maintain a welcoming and collaborative environment, please follow these guidelines when contributing to the project:
+
+## Code of Conduct
+
+Before contributing, review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## How to Contribute
+
+1. Fork the repository to your GitHub account.
+2. Create a new branch from the `main` branch for each new feature or fix you work on.
+3. Make your changes and commit them with a clear and descriptive message.
+4. Push your branch to your forked repository.
+5. Submit a pull request to the `main` branch of the original repository.
+6. Be prepared to participate in the code review process and make necessary changes.
+
+## Style Guidelines
+
+[Include any specific style guidelines or conventions relevant to your project]
+
+## Reporting Issues
+
+If you encounter any problems or have suggestions for improvements, please open an issue on GitHub. Provide a clear title and description for the issue, including steps to reproduce (if applicable).
+
+Thank you for contributing to [Project Name]!

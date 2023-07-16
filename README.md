@@ -2,7 +2,7 @@
 Getting-started-with-git-and-github Final Project Week 3 Assignment
 
 [Project description]
-
+Simple Interest Calculator
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,7 +16,13 @@ Getting-started-with-git-and-github Final Project Week 3 Assignment
 
 ## Usage
 
-[Instructions on how to use the project or examples of usage]
+## Input Parameters:
+ p, principal amount
+ t, time period in years
+ r, annual rate of interest
+ 
+## Output parameters:
+ simple interest = p*t*r
 
 ## Contributing
 
@@ -28,4 +34,4 @@ Please review and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-This project is licensed under the terms of the [MIT License](LICENSE.md).
+This project is licensed under the terms of the Apache License 2.0
